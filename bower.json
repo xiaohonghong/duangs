@@ -1,0 +1,23 @@
+{
+  "name": "duang",
+  "version": "0.1.0",
+  "authors": [
+    "121595113@qq.com <121595113@qq.com>"
+  ],
+  "description": "A duang 文件",
+  "main": "duang.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
